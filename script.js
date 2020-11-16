@@ -8,8 +8,8 @@ var shopper = {
     }
 };
 shopper.groceryCart = ["apples", "beer", "cheese", "bread"];
-console.log(shopper.fullName(), shopper.age);
-console.log(shopper.groceryCart);
+console.log(shopper.fullName());
+console.log(shopper);
 
 
 /*Write a program that has a shopper object. Include at least one property with each of the following data types as values to the properties:
